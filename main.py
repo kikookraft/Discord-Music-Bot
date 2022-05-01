@@ -28,7 +28,7 @@ handler.setFormatter(logging.Formatter('%(asctime)s:%(levelname)s:%(name)s: %(me
 logger.addHandler(handler)
 
 # discord
-TOKEN = 'NzA0NjE0MzU1MDA5OTI5Mjk2.XqftQQ.B8uVrSqD4qALBpFjHhBa3bd1zeo'
+TOKEN = 'oops...'
 client = commands.Bot(command_prefix='!')
 
 class bcolors: #pour afficher en couleur dans la console
